@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "167702019272",
+    "firebase_url": "https://fir-1680a-default-rtdb.firebaseio.com",
+    "project_id": "fir-1680a",
+    "storage_bucket": "fir-1680a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167702019272:android:d3589f5891ce30bd48b9fd",
+        "android_client_info": {
+          "package_name": "com.example.day59"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167702019272-t69ne1a4l2rm79a989besjvedhs6p21j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqSpd-sGx6EMzRvX70ddM1kZVyMy9nqLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167702019272-t69ne1a4l2rm79a989besjvedhs6p21j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167702019272:android:f0a516052a7f52fa48b9fd",
+        "android_client_info": {
+          "package_name": "com.example.firebase_data_enter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167702019272-t69ne1a4l2rm79a989besjvedhs6p21j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqSpd-sGx6EMzRvX70ddM1kZVyMy9nqLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167702019272-t69ne1a4l2rm79a989besjvedhs6p21j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167702019272:android:c1f0bf81b5dcfc6a48b9fd",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167702019272-v9drr18dh2nuna6e0k4j32s8nl6ndlis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login",
+            "certificate_hash": "3bebab0eeb9d73c8b6c4e5b4bcfcc7c782e622da"
+          }
+        },
+        {
+          "client_id": "167702019272-t69ne1a4l2rm79a989besjvedhs6p21j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqSpd-sGx6EMzRvX70ddM1kZVyMy9nqLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167702019272-t69ne1a4l2rm79a989besjvedhs6p21j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167702019272:android:1d070e8294e0f26c48b9fd",
+        "android_client_info": {
+          "package_name": "com.example.login_signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167702019272-9iik82n75k5vhkomno6qnghr6fh3np1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_signup",
+            "certificate_hash": "fa0e2e0504ec6837fa85f44b5dbcf2a3fbe2e6b4"
+          }
+        },
+        {
+          "client_id": "167702019272-t69ne1a4l2rm79a989besjvedhs6p21j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqSpd-sGx6EMzRvX70ddM1kZVyMy9nqLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167702019272-t69ne1a4l2rm79a989besjvedhs6p21j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
